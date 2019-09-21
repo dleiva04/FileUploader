@@ -1,0 +1,23 @@
+{
+  "name": "React-BannerTool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "autoprefixer": "^9.6.1",
+    "next-images": "^1.1.2",
+    "node-sass": "^4.12.0",
+    "tailwindcss": "^1.1.2"
+  }
+}
